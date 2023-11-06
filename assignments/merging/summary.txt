@@ -7,3 +7,5 @@ resolving any conflicts, committing the merge, and pushing the changes
 to the remote repository. Careful handling of the merging process is crucial, 
 especially in collaborative environments, to ensure smooth integration without conflicts. 
 Regularly updating and synchronizing branches can help minimize potential issues during the merging process.
+
+We need to do pull request first to get the review before merging the changes.
